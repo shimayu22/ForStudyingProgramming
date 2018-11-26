@@ -1,0 +1,19 @@
+* {
+	font-size: 18px;
+}
+			
+h1 {
+	font-size: 22px;
+}
+			
+#comment {
+	color:green; //IDが#commentの要素を緑色にする
+}
+			
+.even {
+	color:orange;
+}
+			
+.odd {
+	color:red;
+}
